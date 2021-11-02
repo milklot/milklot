@@ -8,6 +8,6 @@
   
   ### Technologies:
   
-  **Frontend**: React.js, Redux, Context API, Cypress, JavaScript, HTML, CSS, Ant Design
+  **Frontend**: React.js, Redux, Context API, Cypress, JavaScript, HTML, CSS, Ant Design,Bootstrap, Reactstrap, Styled Components
   **Backend**: Node.js, Express, SQL, PostgreSQL, Python, SQLite.
 
