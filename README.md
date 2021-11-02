@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 
 ### I'm full stack web developer based in Cleveland, OH.
