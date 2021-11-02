@@ -3,7 +3,7 @@
 
 ### I'm full stack web developer based in Cleveland, OH.
 
-###  🔭 I’m currently working on Scribble Stadium at Lambda School:
+### I’m currently working on Scribble Stadium at Lambda School:
   React web app designed to empower kids, encouraging reading & writing via competitive gameplay.
   
   ### Technologies:
